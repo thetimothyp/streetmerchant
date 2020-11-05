@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.1.0](https://www.github.com/jef/streetmerchant/compare/v2.0.0...v2.1.0) (2020-11-05)
+
+
+### Features
+
+* **amd:** add 5950 config ([#685](https://www.github.com/jef/streetmerchant/issues/685)) ([31a3d8f](https://www.github.com/jef/streetmerchant/commit/31a3d8f7e068a17c72e0c296e176b93625bf9063))
+* **notification:** add philips hue ([#681](https://www.github.com/jef/streetmerchant/issues/681)) ([c8a9b0b](https://www.github.com/jef/streetmerchant/commit/c8a9b0ba3ed581a9fef7ee2b459b1de84d976ff0))
+
+
+### Bug Fixes
+
+* revert to 14.15.0 until 15 is stable for `tsc` ([2955ea7](https://www.github.com/jef/streetmerchant/commit/2955ea70ab59c1b0dd82ec506c7a03952f81ea01)), closes [#691](https://www.github.com/jef/streetmerchant/issues/691)
+
 ## [2.0.0](https://www.github.com/jef/streetmerchant/compare/v1.7.0...v2.0.0) (2020-11-05)
 
 
